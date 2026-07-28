@@ -3,8 +3,9 @@ azure-identity                         # Azure authentication and credentials ma
 azure-ai-projects                      # Azure AI project management and orchestration
 azure-search-documents                 # Azure AI Search integration
 
-autogen-agentchat
-autogen-ext[azure]
+agent-framework
+agent-framework-foundry
+agent-framework-orchestrations
 
 # Azure AI Services
 azure-ai-inference[opentelemetry]      # Azure AI inference with telemetry support
@@ -27,4 +28,3 @@ tabulate                              # Pretty-print tabular data
 nbformat                              # Notebook format handling
 asyncio                               # Asynchronous I/O support
 typing                                # Type hinting support
-
